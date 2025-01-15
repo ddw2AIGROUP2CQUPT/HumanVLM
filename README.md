@@ -1,4 +1,4 @@
-# [Foundation for Human-Scene Vision-Language Models]
+# Foundation for Human-Scene Vision-Language Models
 
 ## DEMO
 
